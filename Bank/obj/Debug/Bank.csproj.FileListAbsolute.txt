@@ -1,0 +1,8 @@
+D:\Drive\Code\School Projects\DSM5B\Bank\bin\Debug\Bank.exe.config
+D:\Drive\Code\School Projects\DSM5B\Bank\bin\Debug\Bank.exe
+D:\Drive\Code\School Projects\DSM5B\Bank\bin\Debug\Bank.pdb
+D:\Drive\Code\School Projects\DSM5B\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\Drive\Code\School Projects\DSM5B\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\Drive\Code\School Projects\DSM5B\Bank\obj\Debug\Bank.exe
+D:\Drive\Code\School Projects\DSM5B\Bank\obj\Debug\Bank.pdb
+D:\Drive\Code\School Projects\DSM5B\Bank\obj\Debug\Bank.exe.config
